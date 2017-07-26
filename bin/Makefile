@@ -1,6 +1,6 @@
 ##### LIBRARIES CONFIGURATION #####
 
-SYSTEMC := libs/systemc-2.3.1
+SYSTEMC := libs/systemc-2.2.0
 YAML    := libs/yaml-cpp
 
 
